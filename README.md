@@ -16,8 +16,8 @@
     <tr>
       <td>
         <pre><code>&gt; whoami
-  Adrián García Suárez — Garsu26
-  Estudiante de Ingeniería Informática @ Universidad de Oviedo
+  Adriana García Suárez — Garsu26
+  Estudiante de Ingeniería Informática de Software @ Universidad de Oviedo
   Intereses: Full-Stack · Arquitectura de Software · Data · DevOps
   Estado: Aprendiendo cada día | Open to collaborate</code></pre>
       </td>
