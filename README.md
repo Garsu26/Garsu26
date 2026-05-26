@@ -121,7 +121,6 @@
 
 | Proyecto | Stack | Descripción |
 |----------|-------|-------------|
-| [HOEM](https://github.com/Adrigarsu/hoem) | Java 21 · Spring Boot · React 19 · PostgreSQL · Docker | Household coordination app — pantry, shopping, tasks, weekly menu and energy optimisation in a single connected system 🏠 |
 | [yovi_en2c](https://github.com/Arquisoft/yovi_en2c) | React · Rust · Node.js · MongoDB | Plataforma de juego estratégico — Arquitectura de Software |
 
 ---
