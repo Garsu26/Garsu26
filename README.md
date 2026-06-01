@@ -122,6 +122,7 @@
 | Proyecto | Stack | Descripción |
 |----------|-------|-------------|
 | [yovi_en2c](https://github.com/Arquisoft/yovi_en2c) | React · Rust · Node.js · MongoDB | Plataforma de juego estratégico — Arquitectura de Software |
+| [yovi_en2c](https://github.com/Adrigarsu/LearnCpp) | C++ | Learn C++ through  projects based on "A Tour of C++" 3rd ed |
 
 ---
 
