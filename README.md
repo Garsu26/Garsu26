@@ -122,7 +122,8 @@
 | Proyecto | Stack | Descripción |
 |----------|-------|-------------|
 | [yovi_en2c](https://github.com/Arquisoft/yovi_en2c) | React · Rust · Node.js · MongoDB | Plataforma de juego estratégico — Arquitectura de Software |
-| [yovi_en2c](https://github.com/Adrigarsu/LearnCpp) | C++ | Learn C++ through  projects based on "A Tour of C++" 3rd ed |
+| [LearnC++](https://github.com/Adrigarsu/LearnCpp) | C++ | Learn C++ through  projects based on "A Tour of C++" 3rd ed |
+| [OOP Pokemon](https://github.com/Adrigarsu/pokemon) | Java | Pokemon combat system develop with Java OOP |
 
 ---
 
